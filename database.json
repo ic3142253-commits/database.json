@@ -1,3 +1,10 @@
 {
-  "keys": []
+  "chaves": [
+    {
+      "id": "TODY-VIP-TESTE",
+      "validade": "30",
+      "tipo": "VIP"
+    }
+  ]
 }
+
